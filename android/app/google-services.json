@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893069708664",
+    "project_id": "enimilo-3826e",
+    "storage_bucket": "enimilo-3826e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893069708664:android:1dd0099fda64192612cc8d",
+        "android_client_info": {
+          "package_name": "com.example.enimilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893069708664-me2gmm6gtvtb4b46210s57l4pi4li8us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFX6IJVIMWQbmPdlPR-5w6gB79xvCRqWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893069708664-me2gmm6gtvtb4b46210s57l4pi4li8us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
